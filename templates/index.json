@@ -354,6 +354,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/GmRV63nrxZdqJPWtp4zwiK.jpg",
+        "mobile_image": "shopify://shop_images/GmRV63nrxZdqJPWtp4zwiK.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
