@@ -41,7 +41,7 @@
         "enable_sticky": false,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/Nuvella.png",
-        "logo_max_width": 60,
+        "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
@@ -55,9 +55,9 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#c5ce23",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 100,
-        "background_blur_radius": 0
+        "background_blur_radius": 20
       }
     }
   },
